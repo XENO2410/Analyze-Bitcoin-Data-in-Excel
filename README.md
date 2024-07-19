@@ -4,6 +4,8 @@
 
 This project provides a comprehensive analysis of Bitcoin price data using advanced Excel skills. The process involves importing, cleaning, and exploring the dataset, and presenting findings with visualizations. The analysis aims to compare Bitcoin's performance and volatility with the S&P500 over the last year (2021).
 
+![image](https://github.com/user-attachments/assets/54205aba-3cfd-41b6-b9af-04ae7aac9a09)
+
 ## Project Workflow
 
 ### 1. Importing Data
