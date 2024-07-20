@@ -21,12 +21,12 @@ This project provides a comprehensive analysis of Bitcoin price data using advan
 - Key metrics such as average price, daily changes, and volatility are calculated for both Bitcoin and the S&P500.
 
 ### 4. Comparative Analysis
-- The behavior of Bitcoin is compared to the S&P500, focusing on the last year (2021).
+- Bitcoin's behaviour is compared to the S&P500, focusing on the last year (2021).
 - The analysis highlights potential upsides and volatility of Bitcoin relative to the S&P500.
 
 ### 5. Visualizing Findings
 - The findings from the analysis are communicated through various visualizations.
-- Charts and graphs are created to effectively present the comparison between Bitcoin and the S&P500.
+- Charts and graphs are created to effectively compare Bitcoin and the S&P500.
 
 ## Scenario
 
@@ -36,8 +36,8 @@ Manuela, the Head of Finance, has requested an analysis of Bitcoin's performance
 
 - **Dataset**: Contains the raw data for Bitcoin and the S&P500.
 - **Cleaned Data**: The dataset after cleaning and preparation for analysis.
-- **Analysis File**: Excel file with the detailed analysis, including pivot tables, formulas, and visualizations.
-- **Readme**: This document explaining the project workflow and contents.
+- **Analysis File**: Excel file with detailed analysis, including pivot tables, formulas, and visualizations.
+- **Readme**: This document explains the project workflow and contents.
 
 ## Usage
 
